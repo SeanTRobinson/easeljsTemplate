@@ -7,6 +7,6 @@
   "description": "Project",
   "main": "index.html",
   "dependencies": {
-    "easeljs": "*"
+
   }
 }

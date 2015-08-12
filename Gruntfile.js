@@ -13,7 +13,7 @@ module.exports = function(grunt) {
     copy: {
       scripts: {
         src: [
-          'bower_components/easeljs/lib/easeljs-0.8.1.combined.js'
+
         ],
         dest: 'build/scripts/',
         expand: true,
